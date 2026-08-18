@@ -18,5 +18,6 @@ public class Areacalculate {
 
         System.out.print("The area is " + area  );
 
+        get.close();
     }
 }
