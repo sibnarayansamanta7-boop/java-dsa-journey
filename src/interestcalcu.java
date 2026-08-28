@@ -9,7 +9,7 @@ public static void main(String[] args){
     double r; //Annual interest rate
     double n; //Number of times the interest compounds per year
     double t; //Time the money is invested
-
+//how to use math
 
 
     System.out.print("principal amount P is ");
