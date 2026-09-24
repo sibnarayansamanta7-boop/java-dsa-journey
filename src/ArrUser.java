@@ -28,7 +28,7 @@ public class ArrUser  {
         for (String book : books) {
             System.out.println(book);
         }
-
+      //make sure close this
         sc.close();
     }
 }
